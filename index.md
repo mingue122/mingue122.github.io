@@ -1,12 +1,12 @@
 ---
-title: "MyTitle."
+title: "Hello."
 layout: splash
 header:
   overlay_color: "#fff"
   overlay_filter: "0.1"
   overlay_image: /assets/images/concrete.jpg
   actions:
-    - label: "Button"
+    - label: "눌러주세용"
       url: "/sample/"
 excerpt: " "
 intro:
